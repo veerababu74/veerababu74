@@ -73,7 +73,7 @@ dev = VeeraBabu()
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=false&width=400&lines=%F0%9F%8F%86+Certifications+%26+Achievements" alt="Certifications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8F%86+Certifications+%26+Achievements" alt="Certifications"/>
 </p>
 
 <div align="center">
@@ -92,9 +92,7 @@ dev = VeeraBabu()
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&repeat=false&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack+%26+Tools" alt="Tech Stack"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack+%26+Tools" alt="Tech Stack"/>
 </p>
 
 <div align="center">
@@ -170,7 +168,7 @@ dev = VeeraBabu()
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=7B68EE&center=true&vCenter=true&repeat=false&width=300&lines=%F0%9F%93%88+GitHub+Stats" alt="GitHub Stats"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&lines=%F0%9F%93%88+GitHub+Stats" alt="GitHub Stats"/>
 </p>
 
 <div align="center">
@@ -205,7 +203,7 @@ dev = VeeraBabu()
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=false&width=450&lines=%F0%9F%8E%AF+What+I'm+Currently+Working+On" alt="Current Focus"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8E%AF+What+I'm+Currently+Working+On" alt="Current Focus"/>
 </p>
 
 <div align="center">
@@ -222,7 +220,7 @@ dev = VeeraBabu()
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&repeat=false&width=300&lines=%F0%9F%90%8D+Contribution+Snake" alt="Contribution Snake"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&lines=%F0%9F%90%8D+Contribution+Snake" alt="Contribution Snake"/>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"/>
 </p>
 
@@ -235,7 +233,7 @@ dev = VeeraBabu()
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=7B68EE&center=true&vCenter=true&repeat=false&width=280&lines=%F0%9F%93%AB+Let's+Connect!" alt="Let's Connect"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&lines=%F0%9F%93%AB+Let's+Connect!" alt="Let's Connect"/>
 </p>
 
 <!-- Handshake Animation -->
