@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFD700&height=180&section=header&text=Veerababu%20Pilli&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&stroke=FFD700&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:00FFA3,100:7B68EE&height=180&section=header&text=Veerababu%20Pilli&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&stroke=FFFFFF&strokeWidth=1"/>
 
 <!-- AI Robot Animation -->
 <p align="center">
@@ -7,9 +7,9 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Hey+there!+I'm+Veera+Babu+%F0%9F%91%8B;Generative+AI+Developer+%7C+Python+Expert+%F0%9F%90%8D;Building+AI+Agents+%26+LLM+Applications+%F0%9F%A4%96;RAG+%7C+LangChain+%7C+Azure+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Turning+Ideas+into+Intelligent+Solutions+%F0%9F%92%A1)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF;00FFA3;7B68EE;FF6B9D;FFD700&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Hey+there!+I'm+Veera+Babu+%F0%9F%91%8B;Generative+AI+Developer+%7C+Python+Expert+%F0%9F%90%8D;Building+AI+Agents+%26+LLM+Applications+%F0%9F%A4%96;RAG+%7C+LangChain+%7C+Azure+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Turning+Ideas+into+Intelligent+Solutions+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-  <img src="https://komarev.com/ghpvc/?username=veerababu74&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=veerababu74&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
   
 </div>
 
@@ -36,7 +36,7 @@ class VeeraBabu:
     def get_skills(self):
         return {
             "🐍 languages": ["Python", "SQL"],
-            "🤖 ai_frameworks": ["LangChain", "LangGraph", 
+            "🤖 ai_frameworks": ["LangChain", "LangGraph",
                                "LlamaIndex", "AutoGen"],
             "🧠 llms": ["GPT-4", "Gemini", "LLaMA"],
             "📊 ml_nlp": ["Scikit-learn", "NLP", "RAG"],
