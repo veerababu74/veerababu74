@@ -182,7 +182,7 @@ dev = VeeraBabu()
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=veerababu74&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-sigma-one.vercel.app/?user=veerababu74&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   
 </div>
 
