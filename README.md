@@ -1,8 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Veerababu%20Pilli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFD700&height=180&section=header&text=Veerababu%20Pilli&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&stroke=FFD700&strokeWidth=2"/>
+
+<!-- AI Robot Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</p>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Hey+there!+I'm+Veera+Babu+%F0%9F%91%8B;Generative+AI+Developer+%7C+Python+Expert+%F0%9F%90%8D;Building+AI+Agents+%26+LLM+Applications+%F0%9F%A4%96;RAG+%7C+LangChain+%7C+Azure+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Turning+Ideas+into+Intelligent+Solutions+%F0%9F%92%A1)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Hey+there!+I'm+Veera+Babu+%F0%9F%91%8B;Generative+AI+Developer+%7C+Python+Expert+%F0%9F%90%8D;Building+AI+Agents+%26+LLM+Applications+%F0%9F%A4%96;RAG+%7C+LangChain+%7C+Azure+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Turning+Ideas+into+Intelligent+Solutions+%F0%9F%92%A1)](https://git.io/typing-svg)
 
   <img src="https://komarev.com/ghpvc/?username=veerababu74&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   
@@ -12,10 +17,15 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table>
+<tr>
+<td width="55%">
 
 ```python
-class veerababu74:
+class VeeraBabu:
+    """
+    🤖 Generative AI Developer | Python Expert
+    """
     def __init__(self):
         self.name = "Veera Babu Pilli"
         self.role = "Generative AI Developer"
@@ -25,21 +35,38 @@ class veerababu74:
 
     def get_skills(self):
         return {
-            "languages": ["Python", "SQL"],
-            "ai_frameworks": ["LangChain", "LangGraph", "LlamaIndex",
-                              "Semantic Kernel", "AutoGen"],
-            "llms": ["GPT-4", "Gemini", "LLaMA", "RAG", "Graph RAG"],
-            "ml_nlp": ["Scikit-learn", "NLP", "Fine-tuning"],
-            "web": ["Flask", "Django", "FastAPI"],
-            "cloud": ["Azure", "Google Vertex AI"],
-            "databases": ["MySQL", "MongoDB", "Vector DBs"]
+            "🐍 languages": ["Python", "SQL"],
+            "🤖 ai_frameworks": ["LangChain", "LangGraph", 
+                               "LlamaIndex", "AutoGen"],
+            "🧠 llms": ["GPT-4", "Gemini", "LLaMA"],
+            "📊 ml_nlp": ["Scikit-learn", "NLP", "RAG"],
+            "🌐 web": ["Flask", "Django", "FastAPI"],
+            "☁️ cloud": ["Azure", "Google Vertex AI"],
+            "🗄️ databases": ["MySQL", "MongoDB", "VectorDBs"]
         }
 
     def get_motto(self):
-        return "Building intelligent AI solutions! 🚀"
+        return "🚀 Building intelligent AI solutions!"
+
+
+# Let's connect and build something amazing!
+dev = VeeraBabu()
 ```
 
-<br clear="both">
+</td>
+<td width="45%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,11 +82,16 @@ class veerababu74:
 
 ---
 
+<!-- AI Brain Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+</p>
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### � Programming & Query Languages
+### 🐍 Programming & Query Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -157,6 +189,11 @@ class veerababu74:
 
 ---
 
+<!-- Neural Network Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
+
 ## 🎯 What I'm Currently Working On
 
 <div align="center">
@@ -182,6 +219,11 @@ class veerababu74:
 ---
 
 ## 📫 Let's Connect!
+
+<!-- Handshake Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468f5596.gif" width="200">
+</p>
 
 <div align="center">
   
