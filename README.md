@@ -15,7 +15,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> &nbsp;**About Me**
 
 <table>
 <tr>
@@ -70,7 +72,9 @@ dev = VeeraBabu()
 
 ---
 
-## 🏆 Certifications & Achievements
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=false&width=400&lines=%F0%9F%8F%86+Certifications+%26+Achievements" alt="Certifications"/>
+</p>
 
 <div align="center">
   
@@ -87,7 +91,11 @@ dev = VeeraBabu()
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </p>
 
-## 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&repeat=false&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack+%26+Tools" alt="Tech Stack"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+</p>
 
 <div align="center">
 
@@ -161,7 +169,9 @@ dev = VeeraBabu()
 
 ---
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=7B68EE&center=true&vCenter=true&repeat=false&width=300&lines=%F0%9F%93%88+GitHub+Stats" alt="GitHub Stats"/>
+</p>
 
 <div align="center">
   
@@ -175,7 +185,7 @@ dev = VeeraBabu()
   
   <!-- GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=veerababu74&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=veerababu74&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00FFA3&sideLabels=7B68EE&dates=FFFFFF" alt="GitHub Streak"/>
   </a>
   
 </div>
@@ -194,11 +204,13 @@ dev = VeeraBabu()
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
 
-## 🎯 What I'm Currently Working On
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=false&width=450&lines=%F0%9F%8E%AF+What+I'm+Currently+Working+On" alt="Current Focus"/>
+</p>
 
 <div align="center">
 
-|    🔭 Current Focus     |      🌱 Learning       |          👯 Open To           |
+|      Current Focus      |        Learning        |            Open To            |
 | :---------------------: | :--------------------: | :---------------------------: |
 |  Advanced RAG Systems   | Multi-Agent Frameworks | Collaboration on AI Projects  |
 |     LLM Fine-tuning     | Graph Neural Networks  |   Open Source Contributions   |
@@ -208,7 +220,11 @@ dev = VeeraBabu()
 
 ---
 
-## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&repeat=false&width=300&lines=%F0%9F%90%8D+Contribution+Snake" alt="Contribution Snake"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"/>
+</p>
 
 <div align="center">
   
@@ -218,7 +234,9 @@ dev = VeeraBabu()
 
 ---
 
-## 📫 Let's Connect!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=7B68EE&center=true&vCenter=true&repeat=false&width=280&lines=%F0%9F%93%AB+Let's+Connect!" alt="Let's Connect"/>
+</p>
 
 <!-- Handshake Animation -->
 <p align="center">
@@ -250,4 +268,4 @@ dev = VeeraBabu()
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:00FFA3,100:7B68EE&height=120&section=footer"/>
