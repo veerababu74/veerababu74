@@ -185,7 +185,7 @@ dev = VeeraBabu()
   
   <!-- GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=veerababu74&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00FFA3&sideLabels=7B68EE&dates=FFFFFF" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=veerababu74&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00FFA3&sideLabels=7B68EE&dates=FFFFFF" alt="GitHub Streak"/>
   </a>
   
 </div>
