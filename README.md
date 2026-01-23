@@ -181,8 +181,8 @@ dev = VeeraBabu()
 
 <div align="center">
   
-  <!-- GitHub Contribution Stats -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=veerababu74&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="GitHub Contributor Stats"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=veerababu74&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   
 </div>
 
