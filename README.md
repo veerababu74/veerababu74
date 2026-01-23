@@ -181,10 +181,8 @@ dev = VeeraBabu()
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=veerababu74&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <!-- GitHub Contribution Stats -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=veerababu74&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="GitHub Contributor Stats"/>
   
 </div>
 
