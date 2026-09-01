@@ -28,7 +28,7 @@ class VeeraBabu:
         self.role = "Generative AI Developer"
         self.location = "Hyderabad, India 🇮🇳"
         self.company = "Tata Consultancy Services"
-        self.experience = "2+ years"
+        
 
     def get_skills(self):
         return {
@@ -37,7 +37,7 @@ class VeeraBabu:
                                "LlamaIndex", "AutoGen"],
             "🧠 llms": ["GPT-4", "Gemini", "LLaMA"],
             "📊 ml_nlp": ["Scikit-learn", "NLP", "RAG"],
-            "🌐 web": ["Flask", "Django", "FastAPI"],
+            "🌐 web": ["Flask", "Rest apis", "FastAPI"],
             "☁️ cloud": ["Azure", "Google Vertex AI"],
             "🗄️ databases": ["MySQL", "MongoDB", "VectorDBs"]
         }
